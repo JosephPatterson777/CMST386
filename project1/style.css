@@ -3,7 +3,7 @@ h1{
     color: black;
 }
 h2{
-   background-color: red;
-   color: blue;
-   text-shadow: 2px 2px 5px orange; 
+   background-color: orange;
+   color: red;
+   text-shadow: 3px 3px 5px blue; 
 }
