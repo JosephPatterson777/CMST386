@@ -1,0 +1,84 @@
+style
+ {
+    box-sizing: border-box;
+    font-family: 'Lucida Console';
+    
+}
+.background{
+    background-color: black;
+}
+.header{
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+}
+h1{
+    color: aqua;
+    font-family: 'Lucida Console';
+}
+h2{
+    padding: 3px;
+    background-color: #019FFF;
+}
+
+.topnav{
+    border-radius: 30px;
+    border: 10px solid #FF00D2;
+    overflow: hidden;
+    background-color: #019FFF;
+    font-family: 'Lucida Console';
+    font-size: 25px;
+    text-shadow: 0 0 3px white;
+}
+.topnav a{
+    float: left;
+    display: block;
+    color:blueviolet;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Lucida Console';
+    
+}
+.topnav a:hover{
+    background-color: #FF00D2;
+    color:#019FFF;
+    text-shadow: 0 0 3px black;
+}
+.Info{
+    background-color: #019FFF;
+    font-family: 'Lucida Console';
+    border: 10px solid #FF00D2;
+    border-radius: 30px;
+    
+}
+.Album{
+    background-color: #019FFF;
+    font-family: 'Lucida Console';
+    border: 10px solid #FF00D2;
+    border-radius: 30px;
+}
+.row{
+    display: -webkit-flex;
+    display: flex;
+}
+.column{
+    padding: 10px;
+}
+.column.side{
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+@media (max-width: 600px){
+    .row{
+        -webkit-flex-direction: column;
+        flex-direction: column;
+    }
+}
+.bandImage{
+    border-radius: 30px;
+    border: 10px solid #FF00D2;
+    background-image: url('Protomen.webp');
+}
