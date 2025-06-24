@@ -21,10 +21,10 @@ h1{
     font-weight: bold;
     font-style: italic;
     text-shadow: 0 0 5px #FF00D2;
-    padding: 3px;
+    padding: 10px;
 }
 h2{
-    padding: 3px;
+    padding: 10px;
     background-color: #019FFF;
     font-weight: bold;
 }
