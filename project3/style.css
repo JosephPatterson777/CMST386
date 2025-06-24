@@ -16,10 +16,13 @@ style
 h1{
     color: aqua;
     font-family: 'Lucida Console';
+    font-weight: bold;
+    font-style: italic;
 }
 h2{
     padding: 3px;
     background-color: #019FFF;
+    font-weight: bold;
 }
 
 .topnav{
