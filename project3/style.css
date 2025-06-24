@@ -25,6 +25,7 @@ h1{
     font-family: 'Lucida Console';
     text-align: left;
     font-size: 30px;
+    color: black;
 }
 h2{
     padding: 10px;
@@ -33,6 +34,7 @@ h2{
     font-family: 'Lucida Console';
     text-align: left;
     font-size: 30px;
+    color: black;
 }
 p{
     color: black;
