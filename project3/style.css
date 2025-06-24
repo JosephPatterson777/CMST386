@@ -23,15 +23,22 @@ h1{
     text-shadow: 0 0 5px #FF00D2;
     padding: 10px;
     font-family: 'Lucida Console';
+    text-align: left;
+    font-size: 30px;
 }
 h2{
     padding: 10px;
     background-color: #019FFF;
     font-weight: bold;
     font-family: 'Lucida Console';
+    text-align: left;
+    font-size: 30px;
 }
 p{
+    color: black;
     font-family: 'Lucida Console';
+    font-size: 20px;
+    margin: auto;
 }
 .topnav{
     border-radius: 30px;
