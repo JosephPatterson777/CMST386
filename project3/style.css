@@ -66,6 +66,7 @@ h2{
     border: 10px solid #FF00D2;
     border-radius: 30px;
 }
+/*container classes to create rows and columns for webpage formatting*/
 .row{
     display: -webkit-flex;
     display: flex;
@@ -95,11 +96,4 @@ h2{
     font-style: italic;
     padding: 3px;
     text-align: center;
-}
-.wrapper{
-    margin-right: auto;
-    margin-left: auto;
-    max-width: 5;
-    padding-right: 10px;
-    padding-left: 10px;
 }
