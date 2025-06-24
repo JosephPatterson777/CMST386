@@ -14,10 +14,10 @@ style
     font-size: 35px;
 }
 h1{
-    color: aqua;
     font-family: 'Lucida Console';
     font-weight: bold;
     font-style: italic;
+    text-shadow: #FF00D2;
 }
 h2{
     padding: 3px;
