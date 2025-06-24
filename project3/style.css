@@ -17,7 +17,7 @@ h1{
     font-family: 'Lucida Console';
     font-weight: bold;
     font-style: italic;
-    text-shadow: #FF00D2;
+    text-shadow: 0 0 5px #FF00D2;
 }
 h2{
     padding: 3px;
