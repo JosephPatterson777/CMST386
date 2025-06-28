@@ -3,9 +3,9 @@
 }
 .topnav{
     border-radius: 30px;
-    border: 10px solid #FF00D2;
+    border: 10px solid darkgray;
     overflow: hidden;
-    background-color: #019FFF;
+    background-color: grey;
     font-family: 'Lucida Console';
     font-size: 25px;
     text-shadow: 0 0 3px white;
@@ -13,7 +13,7 @@
 .topnav a{
     float: left;
     display: block;
-    color:blueviolet;
+    color:white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -21,7 +21,7 @@
     
 }
 .topnav a:hover{
-    background-color: #FF00D2;
-    color:#019FFF;
+    background-color: darkgray;
+    color:white;
     text-shadow: 0 0 3px black;
 }
