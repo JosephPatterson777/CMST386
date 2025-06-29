@@ -25,14 +25,25 @@
     color:white;
     text-shadow: 0 0 3px black;
 }
-nav ul ul,
-nav ul div{
+ul{
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+ul li {display: inline-block;}
+ul li:hover {background: darkgray;}
+ul li:hover ul{display: block;}
+ul li ul {
+    position: absolute;
+    width: 200px;
     display: none;
 }
-nav ul li:hover > ul,
-bav ul li:hover > div{
+ul li ul li {
+    background: darkgray;
     display: block;
 }
+ul li ul li a {display:block !important;}
+ul li ul li:hover {background: darkgray;}
 body{
     background-color: gray;
     color: black;
