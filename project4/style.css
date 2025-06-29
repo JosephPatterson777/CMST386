@@ -25,6 +25,12 @@
     color:white;
     text-shadow: 0 0 3px black;
 }
+.dropdownList{
+    display: none;
+}
+.dropdownList:hover > div{
+    display: block;
+}
 body{
     background-color: gray;
     color: black;
