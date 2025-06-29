@@ -25,6 +25,13 @@
     color:white;
     text-shadow: 0 0 3px black;
 }
+div a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+    display:inline-block;
+}
 ul{
     display: inline;
     margin: 0;
