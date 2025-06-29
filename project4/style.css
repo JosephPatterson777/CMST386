@@ -11,29 +11,16 @@
     text-shadow: 0 0 3px white;
 }
 .topnav a{
-    float: left;
     display: block;
     color:white;
     text-align: center;
-    padding: 14px 16px;
     text-decoration: none;
     font-family: 'Lucida Console';
-    
-}
-.topnav a:hover{
-    background-color: darkgray;
-    color:white;
-    text-shadow: 0 0 3px black;
-}
-div{
-    background-color: darkgray;
-}
-div a{
-    text-decoration: none;
     color: white;
     font-size: 20px;
     padding: 15px;
     display:inline-block;
+    
 }
 ul{
     display: inline;
