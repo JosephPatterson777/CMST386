@@ -25,10 +25,12 @@
     color:white;
     text-shadow: 0 0 3px black;
 }
-.dropdownList{
+nav ul ul,
+nav ul div{
     display: none;
 }
-.dropdownList:hover > div{
+nav ul li:hover > ul,
+bav ul li:hover > div{
     display: block;
 }
 body{
