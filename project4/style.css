@@ -25,6 +25,9 @@
     color:white;
     text-shadow: 0 0 3px black;
 }
+div{
+    background-color: darkgray;
+}
 div a{
     text-decoration: none;
     color: white;
