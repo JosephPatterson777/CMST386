@@ -35,7 +35,7 @@ body{
 }
 #flex-container > #display{
     width: 500px;
-    margin: 50px;
+    padding: 50px;
     font-size: 30px;
     background-color: purple;
 }
