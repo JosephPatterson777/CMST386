@@ -28,6 +28,9 @@ body{
     display:inline-block;
     
 }
+h1{
+    font-size: 40px;
+}
 ul{
     display: inline;
     margin: 0;
