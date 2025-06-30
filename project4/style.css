@@ -1,6 +1,11 @@
 .background{
     background-color: grey;
 }
+body{
+    background-color: gray;
+    color: black;
+    font-family: 'Lucida Console';
+}
 .topnav{
     border-radius: 30px;
     border: 10px solid darkgray;
@@ -41,9 +46,4 @@ ul li ul li {
     display: block;
 }
 ul li ul li a {display:block !important;}
-ul li ul li:hover {background: darkgray;}
-body{
-    background-color: gray;
-    color: black;
-    font-family: 'Lucida Console';
-}
+ul li ul li:hover {background: gray;}
