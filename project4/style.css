@@ -32,10 +32,11 @@ body{
     display: flex;
     flex-direction: row;
     background-color: white;
+    margin: 50px;
 }
 #flex-container > #display{
     width: 500px;
-    padding: 50px;
+    
     font-size: 30px;
     background-color: purple;
 }
