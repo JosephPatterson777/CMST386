@@ -28,8 +28,14 @@ body{
     display:inline-block;
     
 }
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+}
 h1{
     font-size: 40px;
+    padding: 50px;
 }
 ul{
     display: inline;
