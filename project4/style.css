@@ -28,12 +28,12 @@ body{
     display:inline-block;
     
 }
-.flex-container{
+#flex-container{
     display: flex;
     flex-direction: row;
     background-color: white;
 }
-.flex-container > .display{
+#flex-container > #display{
     width: 500px;
     margin: 10px;
     font-size: 30px;
