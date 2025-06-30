@@ -33,6 +33,12 @@ body{
     flex-direction: row;
     background-color: white;
 }
+.flex-container > .display{
+    width: 500px;
+    margin: 10px;
+    font-size: 30px;
+    background-color: purple;
+}
 h1{
     font-size: 40px;
     padding: 50px;
