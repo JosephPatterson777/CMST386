@@ -85,6 +85,9 @@ body{
     overflow: hidden;
     font-size: 18px;
 }
+#buttonDiv{
+    align-items: center;
+}
 #cartButton{
     width: 300px;
     height: 100px;
