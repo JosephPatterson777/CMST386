@@ -118,6 +118,7 @@ h2{
     font-size: 24px;
     margin-left: 75px;
     color: white;
+    text-shadow: 0 0 3px black;
 }
 h3{
     font-size: 24px;
