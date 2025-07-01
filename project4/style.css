@@ -8,7 +8,7 @@ body{
 }
 .topnav{
     border-radius: 30px;
-    border: 10px solid lightgray;
+    border: 10px solid #fb2f38;
     overflow: hidden;
     background-color: grey;
     font-family: 'Lucida Console';
@@ -43,7 +43,7 @@ body{
     height: 600px;
     font-size: 30px;
     border-radius: 30px;
-    border: 10px solid darkgray;
+    border: 10px solid #fff867;
     overflow: hidden;
 }
 #flex-product{
@@ -92,7 +92,7 @@ body{
     margin-top: 12px;
     background-color: lightgray;
     border-radius: 30px;
-    border: 10px solid darkgray;
+    border: 10px solid #2c52b3;
     overflow: hidden;
     font-size: 18px;
 }
