@@ -35,8 +35,8 @@ body{
     display: flex;
     flex-direction: row;
     background-color: white;
-    margin-left: 70px;
-    margin-right: 70px;
+    margin-left: 200px;
+    margin-right: 200px;
     margin-top: 12px;
 }
 #flex-container > #display{
