@@ -4,7 +4,7 @@
 body{
     background-color: gray;
     color: black;
-    font-family: 'Lucida Console';
+    font-family: 'Arial', 'sans-serif';
 }
 .topnav{
     border-radius: 30px;
@@ -49,7 +49,6 @@ body{
 #flex-product{
     display: flex;
     flex-direction: row;
-    
     margin-left: 160px;
     margin-right: 160px;
     margin-top: 12px;
@@ -144,3 +143,9 @@ ul li ul li {
 }
 ul li ul li a {display:block !important;}
 ul li ul li:hover {background: gray;}
+header{
+
+}
+footer{
+
+}
