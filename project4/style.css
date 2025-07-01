@@ -144,8 +144,14 @@ ul li ul li {
 ul li ul li a {display:block !important;}
 ul li ul li:hover {background: gray;}
 header{
-
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
 }
 footer{
-
+    color: white;
+    font-style: italic;
+    padding: 3px;
+    text-align: center;
 }
