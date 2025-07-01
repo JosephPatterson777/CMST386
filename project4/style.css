@@ -66,7 +66,7 @@ body{
 }
 #flex-product > #priceInfo{
     width: 350px;
-    height: 800px;
+    height: 1000px;
     font-size: 30px;
     background-color: purple;
 }
