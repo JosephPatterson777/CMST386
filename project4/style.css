@@ -34,8 +34,8 @@ body{
 #flex-container{
     display: flex;
     flex-direction: row;
-    margin-left: 190px;
-    margin-right: 190px;
+    margin-left: 180px;
+    margin-right: 180px;
     margin-top: 12px;
 }
 #flex-container > #display{
