@@ -35,13 +35,12 @@ body{
     display: flex;
     flex-direction: row;
     background-color: white;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
     margin-top: 12px;
 }
 #flex-container > #display{
     width: 800px;
-    
     font-size: 30px;
     background-color: purple;
 }
