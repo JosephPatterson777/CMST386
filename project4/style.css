@@ -54,8 +54,8 @@ body{
     margin-top: 12px;
 }
 #flex-product > #product{
-    width: 1600px;
-    height: 600px;
+    width: 800px;
+    height: 800px;
     font-size: 30px;
     background-color: purple;
 }
