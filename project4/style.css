@@ -41,6 +41,7 @@ body{
 }
 #flex-container > #display{
     width: 1600px;
+    height: 600px;
     font-size: 30px;
     background-color: purple;
 }
