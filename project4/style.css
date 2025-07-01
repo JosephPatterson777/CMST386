@@ -86,7 +86,7 @@ body{
     overflow: hidden;
     font-size: 18px;
 }
-#flex-News{
+.flex-News{
     margin-left: 50px;
     margin-right: 200px;
     margin-top: 12px;
@@ -96,7 +96,7 @@ body{
     overflow: hidden;
     font-size: 18px;
 }
-#description{
+.description{
     padding: 12px;
 }
 #buttonDiv{
