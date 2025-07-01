@@ -62,7 +62,7 @@ body{
     overflow: hidden;
 }
 #flex-product > #spacer{
-    width: 250px;
+    width: 10px;
     height: 700px;
     font-size: 30px;
 }
