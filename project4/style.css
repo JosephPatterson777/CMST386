@@ -67,7 +67,6 @@ body{
     font-size: 30px;
 }
 #flex-product > #priceInfo{
-    color: black;
     width: 350px;
     height: 150px;
     font-size: 30px;
@@ -105,6 +104,11 @@ h2{
     font-size: 24px;
     margin-left: 75px;
     color: white;
+}
+h3{
+    font-size: 24px;
+    margin-left: 75px;
+    color: black;
 }
 ul{
     display: inline;
