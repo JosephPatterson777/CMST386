@@ -87,6 +87,16 @@ body{
     overflow: hidden;
     font-size: 18px;
 }
+#flex-News{
+    margin-left: 100px;
+    margin-right: 200px;
+    margin-top: 12px;
+    background-color: lightgray;
+    border-radius: 30px;
+    border: 10px solid darkgray;
+    overflow: hidden;
+    font-size: 18px;
+}
 #description{
     padding: 12px;
 }
