@@ -82,7 +82,7 @@ body{
     margin-top: 12px;
     background-color: lightgray;
     border-radius: 30px;
-    border: 10px solid darkgray;
+    border: 10px solid #2c52b3;
     overflow: hidden;
     font-size: 18px;
 }
