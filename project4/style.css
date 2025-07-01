@@ -71,6 +71,9 @@ body{
     height: 700px;
     font-size: 30px;
     background-color: purple;
+    border-radius: 30px;
+    border: 10px solid darkgray;
+    overflow: hidden;
 }
 #flex-Information{
     margin-left: 200px;
