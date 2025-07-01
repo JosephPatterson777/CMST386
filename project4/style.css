@@ -48,7 +48,7 @@ body{
 #flex-product{
     display: flex;
     flex-direction: row;
-    color: black;
+    
     margin-left: 160px;
     margin-right: 160px;
     margin-top: 12px;
@@ -67,6 +67,7 @@ body{
     font-size: 30px;
 }
 #flex-product > #priceInfo{
+    color: black;
     width: 350px;
     height: 150px;
     font-size: 30px;
