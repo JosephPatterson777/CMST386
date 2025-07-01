@@ -86,6 +86,9 @@ body{
     overflow: hidden;
     font-size: 18px;
 }
+#description{
+    padding: 12px;
+}
 #buttonDiv{
     display: flex;
     justify-content: center;
