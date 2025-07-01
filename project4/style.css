@@ -63,6 +63,11 @@ body{
     width: 350px;
     height: 700px;
     font-size: 30px;
+}
+#flex-product > #priceInfo{
+    width: 350px;
+    height: 700px;
+    font-size: 30px;
     background-color: purple;
 }
 h1{
