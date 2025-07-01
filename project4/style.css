@@ -87,6 +87,7 @@ body{
 }
 #buttonDiv{
     display: flex;
+    justify-content: center;
     align-items: center;
 }
 #cartButton{
