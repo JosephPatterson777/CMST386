@@ -63,6 +63,10 @@ h1{
     font-size: 40px;
     margin-left: 55px;
 }
+h2{
+    font-size: 24px;
+    margin-left: 75px;
+}
 ul{
     display: inline;
     margin: 0;
