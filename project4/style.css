@@ -59,6 +59,12 @@ body{
     font-size: 30px;
     background-color: purple;
 }
+#flex-product > #spacer{
+    width: 350px;
+    height: 700px;
+    font-size: 30px;
+    background-color: purple;
+}
 h1{
     font-size: 40px;
     margin-left: 55px;
