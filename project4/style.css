@@ -43,7 +43,9 @@ body{
     width: 1600px;
     height: 600px;
     font-size: 30px;
-    background-color: purple;
+    border-radius: 30px;
+    border: 10px solid darkgray;
+    overflow: hidden;
 }
 #flex-product{
     display: flex;
