@@ -8,7 +8,7 @@ body{
 }
 .topnav{
     border-radius: 30px;
-    border: 10px solid darkgray;
+    border: 10px solid lightgray;
     overflow: hidden;
     background-color: grey;
     font-family: 'Lucida Console';
