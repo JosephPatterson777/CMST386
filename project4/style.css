@@ -45,6 +45,20 @@ body{
     font-size: 30px;
     background-color: purple;
 }
+#flex-product{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 12px;
+}
+#flex-product > #product{
+    width: 1600px;
+    height: 600px;
+    font-size: 30px;
+    background-color: purple;
+}
 h1{
     font-size: 40px;
     margin-left: 55px;
