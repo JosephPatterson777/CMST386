@@ -48,7 +48,7 @@ body{
 #flex-product{
     display: flex;
     flex-direction: row;
-    background-color: white;
+    
     margin-left: 160px;
     margin-right: 160px;
     margin-top: 12px;
@@ -57,7 +57,7 @@ body{
     width: 700px;
     height: 700px;
     font-size: 30px;
-    background-color: purple;
+    
 }
 #flex-product > #spacer{
     width: 350px;
