@@ -147,6 +147,7 @@ header{
     padding: 30px;
     text-align: center;
     font-size: 35px;
+    text-shadow: 0 0 3px white;
 }
 footer{
     color: white;
