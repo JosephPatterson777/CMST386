@@ -74,6 +74,9 @@ body{
     border-radius: 30px;
     border: 10px solid darkgray;
     overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #flex-Information{
     margin-left: 200px;
